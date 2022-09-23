@@ -1,10 +1,12 @@
 {
  "physnet": {
-   "position": "",
+   "position": "Student employee",
    "company": "Physnet",
+   "achievements": [
+     ""
+   ],
    "location": "Hamburg",
-   "startdate": "11/2021",
-   "current": "yes"
+   "startdate": "11/2021"
  },
  "3s": {
    "position": "IT-Support",

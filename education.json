@@ -1,0 +1,26 @@
+{
+ "master": {
+   "name": "M. Sc. Physics",
+   "institution": "Universität Hamburg",
+   "location": "Hamburg",
+   "date": "10/2022",
+   "weight": 30
+ },
+ "bachelor": {
+   "name": "B. Sc. Physics",
+   "institution": "Universität Hamburg",
+   "location": "Hamburg",
+   "date": "07/2022",
+   "appraisal": "outstanding (1.47)",
+   "notes": "Thesis: \"Optimization of the Quantum Espresso Density Functional Theory Code for parallel execution on the PHYSnet-Cluster\"",
+   "weight": 20
+ },
+ "abitur": {
+   "name": "Abitur",
+   "institution": "Werner-Heisenberg-Gymnasium",
+   "location": "Heide",
+   "date": "07/2017",
+   "appraisal": "1.5",
+   "weight": 10
+ }
+}
