@@ -11,7 +11,7 @@
    "institution": "Universität Hamburg",
    "location": "Hamburg",
    "date": "07/2022",
-   "appraisal": "outstanding (1.47)",
+   "appraisal": "1.47",
    "notes": "Thesis: \"Optimization of the Quantum Espresso Density Functional Theory Code for parallel execution on the PHYSnet-Cluster\"",
    "weight": 20
  },
