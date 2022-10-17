@@ -2,5 +2,8 @@
     "name": "Tjark Sievers",
     "email": "tsievers@physnet.uni-hamburg.de",
     "website": "tjarksievers.de",
-    "gitlab": "https://gitlab.com/Ruberhauptmann"
+    "other_links":
+        {
+            "Gitlab": "gitlab.com/Ruberhauptmann"
+        }
 }
