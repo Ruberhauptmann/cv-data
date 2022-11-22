@@ -6,7 +6,7 @@
             ""
         ]
         "location": "Hamburg"
-        "startdate": "2021-11-01"
+        "startdate": 2021-11-01
     "3s":
         "position": "IT-Support"
         "company": "Schul-Support-Service/HiTeC e.V."
@@ -17,11 +17,11 @@
             "First and second level support for Linux servers and clients"
         ]
         "location": "Hamburg"
-        "startdate": "2019-05-01"
-        "enddate": "2021-09-01"
+        "startdate": 2019-05-01
+        "enddate": 2021-09-01
     "FSJ":
         "position": "Volunteer Service in culture and education"
         "company": "Bayerische Musikakademie Schloss Alteglofsheim"
         "location": "Alteglofsheim"
-        "startdate": "2017-09-01"
-        "enddate": "2018-08-01"
+        "startdate": 2017-09-01
+        "enddate": 2018-08-01
