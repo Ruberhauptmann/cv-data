@@ -2,9 +2,6 @@
  "physnet": {
    "position": "Student employee",
    "company": "Physnet",
-   "achievements": [
-     ""
-   ],
    "location": "Hamburg",
    "startdate": "2021-11-01"
  },
@@ -12,9 +9,9 @@
    "position": "IT-Support",
    "company": "Schul-Support-Service/HiTeC e.V.",
    "achievements": [
-     "Carrying out changes as change manager (according to ITIL)",
-     "Advising teachers on hardware acquisition and Linux programms",
-     "Installing and configuring of Linux servers",
+     "Carried out changes as change manager (according to ITIL)",
+     "Advised teachers on hardware acquisition and Linux programms",
+     "Installed and configured Linux servers",
      "First and second level support for Linux servers and clients"
    ],
    "location": "Hamburg",
