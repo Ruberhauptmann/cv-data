@@ -2,6 +2,8 @@ en:
   Physnet:
     position: Student employee
     company: PHYSnet Universität Hamburg
+    achievements:
+      - Developed a Flask-based web app to accelerate typical tasks of distributing hardware to research groups
     location: Hamburg
     startdate: 2021-11-01
   3s:
@@ -9,7 +11,6 @@ en:
     company: Schul-Support-Service/HiTeC e.V.
     achievements: 
         - Carried out changes as change manager (according to ITIL)
-        - Advised teachers on hardware acquisition and Linux programms
         - Installed and configured Linux servers
         - First and second level support for Linux servers and clients
     location: Hamburg
