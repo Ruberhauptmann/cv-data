@@ -1,9 +1,9 @@
 {
  "physnet": {
    "position": "Student employee",
-   "company": "Physnet",
+   "company": "PHYSnet, Universität Hamburg",
    "achievements": [
-     ""
+     "Developed a Flask-based web app to accelerate typical tasks of distributing hardware to research groups"
    ],
    "location": "Hamburg",
    "startdate": "11/2021"
@@ -12,16 +12,15 @@
    "position": "IT-Support",
    "company": "Schul-Support-Service/HiTeC e.V.",
    "achievements": [
-     "Carrying out changes as change manager (according to ITIL)",
-     "Advising teachers on hardware acquisition and Linux programms",
-     "Installation and configuration of Linux servers",
-     "First and second level support for linux servers and clients"
+     "Carried out changes as change manager (according to ITIL)",
+     "Installed and configured Linux servers",
+     "First and second level support for Linux servers and clients"
    ],
    "location": "Hamburg",
    "startdate": "05/2019",
    "enddate": "09/2021"
  },
- "Z": {
+ "FSJ": {
    "position": "Volunteer Service in culture and education",
    "company": "Bayerische Musikakademie Schloss Alteglofsheim",
    "location": "Alteglofsheim",
