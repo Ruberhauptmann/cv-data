@@ -11,7 +11,7 @@ en:
     location: Hamburg
     date: 2022-07-01
     appraisal: "1.47"
-    notes: "Thesis: \"Optimization of the Quantum Espresso Density Functional Theory Code for parallel execution on the PHYSnet-Cluster\""
+    notes: "Thesis: 'Optimization of the Quantum Espresso Density Functional Theory Code for parallel execution on the PHYSnet-Cluster'"
   abitur:
     name: Abitur
     institution: Werner-Heisenberg-Gymnasium
