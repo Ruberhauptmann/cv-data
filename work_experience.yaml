@@ -1,31 +1,33 @@
 en:
-  Research Assistant Thore:
-    position: Research assistant
-    company: Dr. Thore Posske
-    achievements:
-      - "Helped develop a course book for the course 'Topology in Condensed Matter Physics'"
-    location: Hamburg
-    startdate: 2023-09-01
-    enddate: 2023-10-31
-  Physnet:
-    position: Student employee
-    company: PHYSnet Universität Hamburg
-    achievements:
-      - Developed a Flask-based web app to accelerate typical tasks of distributing hardware
-    location: Hamburg
-    startdate: 2021-11-01
-  3S:
-    position: IT-Support
-    company: 3S/HiTeC e.V.
-    achievements:
-      - Installed and configured Linux servers
-      - First and second level support for Linux servers and clients
-    location: Hamburg
-    startdate: 2019-05-01
-    enddate: 2021-09-30
-  FSJ:
-    position: Volunteer Service in culture and education
-    company: Musikakademie Alteglofsheim
-    location: Alteglofsheim
-    startdate: 2017-09-01
-    enddate: 2018-08-31
+  current:
+    Physnet:
+      position: Student employee
+      company: PHYSnet, Universität Hamburg
+      achievements:
+        - Developed a Flask-based web app to accelerate typical tasks of distributing hardware
+      location: Hamburg
+      startdate: 2021-11-01
+  former:
+    Research Assistant Thore:
+      position: Research assistant
+      company: Dr. Thore Posske, Universität Hamburg
+      achievements:
+        - "Helped develop a course book for the course 'Topology in Condensed Matter Physics'"
+      location: Hamburg
+      startdate: 2023-09-01
+      enddate: 2023-10-31
+    3S:
+      position: IT-Support
+      company: 3S/HiTeC e.V.
+      achievements:
+        - Installed and configured Linux servers
+        - First and second level support for Linux servers and clients
+      location: Hamburg
+      startdate: 2019-05-01
+      enddate: 2021-09-30
+    FSJ:
+      position: Volunteer Service in culture and education
+      company: Musikakademie Alteglofsheim
+      location: Alteglofsheim
+      startdate: 2017-09-01
+      enddate: 2018-08-31
