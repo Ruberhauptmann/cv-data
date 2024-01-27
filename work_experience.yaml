@@ -1,5 +1,6 @@
 en:
   current:
+  former:
     Physnet:
       position: Student employee
       company: PHYSnet, Universität Hamburg
@@ -7,7 +8,7 @@ en:
         - Developed a Flask-based web app to accelerate typical tasks of distributing hardware
       location: Hamburg
       startdate: 2021-11-01
-  former:
+      enddate: 2024-03-31
     Research Assistant Thore:
       position: Research assistant
       company: Dr. Thore Posske, Universität Hamburg
