@@ -5,17 +5,19 @@ en:
       institution: Universität Hamburg
       location: Hamburg
       date: 2022-10-01
+      notes:
+        - "4/2024 - 7/2024: Stay at Uppsala University"
+      final_grade: "1.11"
   former:
     bachelor:
       name: B. Sc. Physics
       institution: Universität Hamburg
       location: Hamburg
       date: 2022-07-01
-      appraisal: "1.47"
-      notes: "Thesis: 'Optimization of the Quantum Espresso Density Functional Theory Code for parallel execution on the PHYSnet-Cluster'"
+      final_grade: "1.47"
     abitur:
       name: Abitur
       institution: Werner-Heisenberg-Gymnasium
       location: Heide
       date: 2017-07-01
-      appraisal: "1.5"
+      final_grade: "1.5"
