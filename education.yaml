@@ -5,19 +5,18 @@ en:
       institution: Universität Hamburg
       location: Hamburg
       date: 2022-10-01
-      notes:
-        - "4/2024 - 7/2024: Stay at Uppsala University"
-      final_grade: "1.11"
+      notes: "4/2024 - 7/2024: Stay at Uppsala University"
+      grade: "1.11"
   former:
     bachelor:
       name: B. Sc. Physics
       institution: Universität Hamburg
       location: Hamburg
       date: 2022-07-01
-      final_grade: "1.47"
+      grade: "1.47"
     abitur:
       name: Abitur
       institution: Werner-Heisenberg-Gymnasium
       location: Heide
       date: 2017-07-01
-      final_grade: "1.5"
+      grade: "1.5"
