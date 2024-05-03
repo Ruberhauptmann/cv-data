@@ -7,6 +7,7 @@ en:
         description: An API to log played boardgames, built using FastAPI and SQLModel.
         link: tjarksievers.de/projects/saboga-backend
       verleihnix:
+        name: Verleihnix
         description: Internal tool for managing inventory written in Django, built during my time as a student employee at PHYSnet Hamburg.
         link: tjarksievers.de/projects/verleihnix
   docker:
@@ -14,7 +15,7 @@ en:
     projects:
       tjarksievers.de:
         name: tjarksievers.de
-        description: I run some applications under tjarksievers.de using Docker.
+        description: The appplications under tjarksievers.de run under Docker, with automatic deployment via Gitlab CI.
         link: tjarksievers.de/projects/tjarksievers.de
   tailwindCSS:
     name: TailwindCSS
