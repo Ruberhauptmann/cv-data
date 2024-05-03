@@ -2,5 +2,6 @@ en:
   name: Tjark Sievers
   email: tsievers@physnet.uni-hamburg.de
   website: tjarksievers.de
-  gitlab: gitlab.com/Ruberhauptmann
-  linkedin: linkedin.com/in/tjark-sievers-5b95822b9/
+  other_links:
+    gitlab: gitlab.com/Ruberhauptmann
+    linkedin: linkedin.com/in/tjark-sievers-5b95822b9/

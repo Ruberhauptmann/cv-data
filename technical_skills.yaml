@@ -1,0 +1,28 @@
+en:
+  python:
+    name: Python
+    projects:
+      saboga:
+        description: An API to log played boardgames, built using FastAPI and SQLModel.
+        link: tjarksievers.de/projects/saboga-backend
+      verleihnix:
+        description: Internal tool for managing inventory written in Django, built during my time as a student employee at PHYSnet Hamburg.
+        link: tjarksievers.de/projects/verleihnix
+  docker:
+    name: Docker
+    projects:
+      tjarksievers.de:
+        description: I run some applications under tjarksievers.de using Docker.
+        link: tjarksievers.de/projects/tjarksievers.de
+  tailwindCSS:
+    name: TailwindCSS
+    projects:
+        sunflower:
+          description: A clean Hugo theme with yellows and greens using TailwindCSS and DaisyUI components.
+          link: tjarksievers.de/projects/sunflower
+  SvelteKit:
+    name: SvelteKit
+    projects:
+      saboga:
+        description: A frontend for saboga, the API to log played boardgames.
+        link: tjarksievers.de/projects/saboga-frontend/
