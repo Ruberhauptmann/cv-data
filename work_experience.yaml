@@ -4,7 +4,7 @@ en:
       position: Student employee
       company: PHYSnet, Universität Hamburg
       achievements:
-        - "Developed a Django-based web app to for inventory management"
+        - "Developed a Django-based web app for inventory management"
       location: Hamburg
       startdate: 2021-11-01
       enddate: 2024-03-31
