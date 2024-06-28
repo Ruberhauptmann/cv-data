@@ -1,11 +1,12 @@
 en:
   languages:
+    weight: 200
     python:
       name: Python
       projects:
         saboga:
           name: Saboga
-          description: An API to log played boardgames, built using FastAPI and Beanie on MongoDB.
+          description: A service to log played boardgames, built using FastAPI and Beanie on MongoDB.
           link: tjarksievers.de/projects/saboga-backend
         verleihnix:
           name: Verleihnix
@@ -17,19 +18,13 @@ en:
           link: tjarksievers.de/projects/quant-met
     latex:
       name: LaTeX
+      weight: 0
       projects:
         bachelorthesis:
           name: Bachelorthesis
-          link: tjarksievers.de/projects/bachelorthesis
-  scientific packages:
-    quantum espresso:
-      name: Quantum Espresso
-      projects:
-        bachelorthesis:
-          name: Bachelorthesis
-          description: During my thesis I ran DFT electronic structure and phonon calculations.
           link: tjarksievers.de/projects/bachelorthesis
   web:
+    weight: 0
     tailwindCSS:
       name: TailwindCSS
       projects:
@@ -48,7 +43,8 @@ en:
           name: Saboga
           description: A frontend for the Saboga API.
           link: tjarksievers.de/projects/saboga-frontend/
-  other:
+  technologies:
+    weight: 100
     docker:
       name: Docker
       projects:
@@ -58,3 +54,10 @@ en:
           link: tjarksievers.de/projects/tjarksievers.de
     HPC:
       name: High-Performance Computing
+      quantum espresso:
+        name: Quantum Espresso
+        projects:
+          bachelorthesis:
+            name: Bachelorthesis
+            description: During my thesis I ran DFT electronic structure and phonon calculations.
+            link: tjarksievers.de/projects/bachelorthesis
