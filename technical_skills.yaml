@@ -1,6 +1,5 @@
 en:
   languages:
-    weight: 200
     python:
       name: Python
       projects:
@@ -18,13 +17,11 @@ en:
           link: tjarksievers.de/projects/quant-met
     latex:
       name: LaTeX
-      weight: 0
       projects:
         bachelorthesis:
           name: Bachelorthesis
           link: tjarksievers.de/projects/bachelorthesis
   web:
-    weight: 0
     tailwindCSS:
       name: TailwindCSS
       projects:
@@ -44,7 +41,6 @@ en:
           description: A frontend for the Saboga API.
           link: tjarksievers.de/projects/saboga-frontend/
   technologies:
-    weight: 100
     docker:
       name: Docker
       projects:
