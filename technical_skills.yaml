@@ -50,10 +50,8 @@ en:
           link: tjarksievers.de/projects/tjarksievers.de
     HPC:
       name: High-Performance Computing
-      quantum espresso:
-        name: Quantum Espresso
-        projects:
-          bachelorthesis:
-            name: Bachelorthesis
-            description: During my thesis I ran DFT electronic structure and phonon calculations.
-            link: tjarksievers.de/projects/bachelorthesis
+      projects:
+        bachelorthesis:
+          name: Bachelorthesis
+          description: During my thesis I ran DFT electronic structure and phonon calculations with Quantum Espresso.
+          link: tjarksievers.de/projects/bachelorthesis
