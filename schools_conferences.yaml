@@ -1,10 +1,9 @@
 en:
-  schools:
-    juelich:
-      name: "Autumn School on Correlated Electrons: Correlations and Phase Transitions"
-      startdate: 2024-09-16
-      enddate: 2024-09-20
-      location: Jülich
-      url: www.cond-mat.de/events/correl24/
-      poster: raw.githubusercontent.com/Ruberhauptmann/juelichautumn2024-poster/main/poster.pdf
-      post_name: "Poster for the Jülich 2024 Autumn School on Correlated Electrons"
+  juelich:
+    name: "Autumn School on Correlated Electrons: Correlations and Phase Transitions"
+    startdate: 2024-09-16
+    enddate: 2024-09-20
+    location: Jülich
+    url: www.cond-mat.de/events/correl24/
+    poster: raw.githubusercontent.com/Ruberhauptmann/juelichautumn2024-poster/main/poster.pdf
+    post_title: "Poster for the Jülich 2024 Autumn School on Correlated Electrons"
