@@ -55,3 +55,61 @@ en:
           name: Bachelorthesis
           description: During my thesis I ran DFT electronic structure and phonon calculations with Quantum Espresso.
           link: tjarksievers.de/projects/bachelorthesis
+
+de:
+  languages:
+    python:
+      name: Python
+      projects:
+        saboga:
+          name: Saboga
+          description: A service to log played boardgames, built using FastAPI and Beanie on MongoDB.
+          link: tjarksievers.de/projects/saboga-backend
+        verleihnix:
+          name: Verleihnix
+          description: Internal tool for inventory management. Written in Django, built during my time as a student employee at PHYSnet Hamburg.
+          link: tjarksievers.de/projects/verleihnix
+        quant-met:
+          name: quant-met
+          description: Software package to study superconductivity in flat-band systems.
+          link: tjarksievers.de/projects/quant-met
+    latex:
+      name: LaTeX
+      projects:
+        bachelorthesis:
+          name: Bachelorthesis
+          link: tjarksievers.de/projects/bachelorthesis
+  web:
+    tailwindCSS:
+      name: TailwindCSS
+      projects:
+        sunflower:
+          name: Sunflower
+          description: A clean Hugo theme with yellows and greens using TailwindCSS and DaisyUI components.
+          link: tjarksievers.de/projects/sunflower
+        verleihnix:
+          name: Verleihnix
+          description: Internal tool for managing inventory written in Django, built during my time as a student employee at PHYSnet Hamburg.
+          link: tjarksievers.de/projects/verleihnix
+    SvelteKit:
+      name: SvelteKit
+      projects:
+        saboga:
+          name: Saboga
+          description: A frontend for the Saboga API.
+          link: tjarksievers.de/projects/saboga-frontend/
+  technologies:
+    docker:
+      name: Docker
+      projects:
+        tjarksievers.de:
+          name: tjarksievers.de
+          description: The appplications under tjarksievers.de run under Docker, with automatic deployment via Gitlab CI.
+          link: tjarksievers.de/projects/tjarksievers.de
+    HPC:
+      name: High-Performance Computing
+      projects:
+        bachelorthesis:
+          name: Bachelorthesis
+          description: During my thesis I ran DFT electronic structure and phonon calculations with Quantum Espresso.
+          link: tjarksievers.de/projects/bachelorthesis
