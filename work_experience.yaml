@@ -38,15 +38,15 @@ de:
       position: Studentisch Angestellter
       company: PHYSnet, Universität Hamburg
       achievements:
-        - "Developed a Django-based web app for inventory management"
+        - "Entwicklung einer Django-basierten Web Applikation zur Inventarverwaltung"
       location: Hamburg
       startdate: 2021-11-01
       enddate: 2024-03-31
     Research Assistant Thore:
-      position: Research assistant
-      company: Dr. Thore Posske, University of Hamburg
+      position: Wissenschaftliche Hilfskraft
+      company: Dr. Thore Posske, Universität Hamburg
       achievements:
-        - "Helped typeset a course book for the course 'Topology in Condensed Matter Physics'"
+        - "Hilfe beim Setzen eines Kursbuches für die Vorlesung 'Topology in Condensed Matter Physics'"
       location: Hamburg
       startdate: 2023-09-01
       enddate: 2023-10-31
@@ -54,13 +54,13 @@ de:
       position: IT-Support
       company: 3S/HiTeC e.V.
       achievements:
-        - "Installed and configured Linux servers"
-        - "First and second level support for Linux servers and clients"
+        - "Linux Server installiert und konfiguriert"
+        - "First und Second Level Support für Linux Server und Clients"
       location: Hamburg
       startdate: 2019-05-01
       enddate: 2021-09-30
     FSJ:
-      position: Volunteer Service in culture and education
+      position: FSJ Kultur
       company: Musikakademie Alteglofsheim
       location: Alteglofsheim
       startdate: 2017-09-01
