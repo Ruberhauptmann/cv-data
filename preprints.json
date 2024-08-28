@@ -1,0 +1,99 @@
+{
+  "config": {
+    "id": "36a3b0b5-bad0-4a04-b79b-441c7cef77db",
+    "label": "BetterBibTeX JSON",
+    "preferences": {},
+    "options": {
+      "Items": true,
+      "Normalize": false,
+      "Preferences": false,
+      "cache": true,
+      "exportDir": "/Users/tjark/Projects/Private/cv-data",
+      "exportFileData": false,
+      "exportNotes": false,
+      "exportPath": "/Users/tjark/Projects/Private/cv-data/preprints.json",
+      "keepUpdated": true,
+      "worker": true
+    }
+  },
+  "version": {
+    "bbt": "6.7.225"
+  },
+  "collections": {},
+  "items": [
+    {
+      "key": "GG584A2X",
+      "version": 9109,
+      "itemType": "journalArticle",
+      "title": "Theory of Superconductivity",
+      "abstractNote": "A theory of superconductivity is presented, based on the fact that the interaction between electrons resulting from virtual exchange of phonons is attractive when the energy difference between the electrons states involved is less than the phonon energy, ℏ⁢𝜔. It is favorable to form a superconducting phase when this attractive interaction dominates the repulsive screened Coulomb interaction. The normal phase is described by the Bloch individual-particle model. The ground state of a superconductor, formed from a linear combination of normal state configurations in which electrons are virtually excited in pairs of opposite spin and momentum, is lower in energy than the normal state by amount proportional to an average (ℏ⁢𝜔)2, consistent with the isotope effect. A mutually orthogonal set of excited states in one-to-one correspondence with those of the normal phase is obtained by specifying occupation of certain Bloch states and by using the rest to form a linear combination of virtual pair configurations. The theory yields a second-order phase transition and a Meissner effect in the form suggested by Pippard. Calculated values of specific heats and penetration depths and their temperature variation are in good agreement with experiment. There is an energy gap for individual-particle excitations which decreases from about 3.5⁢𝑘⁢𝑇𝑐 at 𝑇=0°K to zero at 𝑇𝑐. Tables of matrix elements of single-particle operators between the excited-state superconducting wave functions, useful for perturbation expansions and calculations of transition probabilities, are given.",
+      "date": "1957-12-01",
+      "libraryCatalog": "APS",
+      "url": "https://link.aps.org/doi/10.1103/PhysRev.108.1175",
+      "accessDate": "2024-07-09T13:13:37Z",
+      "extra": "Publisher: American Physical Society",
+      "volume": "108",
+      "pages": "1175-1204",
+      "publicationTitle": "Physical Review",
+      "DOI": "10.1103/PhysRev.108.1175",
+      "issue": "5",
+      "journalAbbreviation": "Phys. Rev.",
+      "creators": [
+        {
+          "firstName": "J.",
+          "lastName": "Bardeen",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "L. N.",
+          "lastName": "Cooper",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "J. R.",
+          "lastName": "Schrieffer",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Backlog"
+        }
+      ],
+      "relations": {},
+      "dateAdded": "2024-07-09T13:13:37Z",
+      "dateModified": "2024-07-11T08:29:12Z",
+      "uri": "http://zotero.org/users/6773287/items/GG584A2X",
+      "itemID": 1872,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "APS Snapshot",
+          "tags": [],
+          "relations": {},
+          "dateAdded": "2024-07-09T13:13:42Z",
+          "dateModified": "2024-07-09T13:13:42Z",
+          "uri": "http://zotero.org/users/6773287/items/DE3LXQVY",
+          "path": "/Users/tjark/Zotero/storage/DE3LXQVY/PhysRev.108.html",
+          "select": "zotero://select/library/items/DE3LXQVY"
+        },
+        {
+          "itemType": "attachment",
+          "title": "Full Text PDF",
+          "tags": [],
+          "relations": {},
+          "dateAdded": "2024-07-09T13:13:38Z",
+          "dateModified": "2024-07-09T13:13:38Z",
+          "uri": "http://zotero.org/users/6773287/items/WIWM8TPW",
+          "path": "/Users/tjark/Zotero/storage/WIWM8TPW/Bardeen et al. - 1957 - Theory of Superconductivity.pdf",
+          "select": "zotero://select/library/items/WIWM8TPW"
+        }
+      ],
+      "notes": [],
+      "citationKey": "bardeenTheorySuperconductivity1957",
+      "itemKey": "GG584A2X",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/GG584A2X"
+    }
+  ]
+}
