@@ -5,6 +5,7 @@ en:
       company: PHYSnet, University of Hamburg
       achievements:
         - "Developed a Django-based web app for inventory management"
+        - "Supported users of the PHYSnet compute cluster"
       location: Hamburg
       startdate: 2021-11-01
       enddate: 2024-03-31
@@ -39,6 +40,7 @@ de:
       company: PHYSnet, Universität Hamburg
       achievements:
         - "Entwicklung einer Django-basierten Web Applikation zur Inventarverwaltung"
+        - "Unterstützung von Usern des PHYSnet Compute Clusters"
       location: Hamburg
       startdate: 2021-11-01
       enddate: 2024-03-31

@@ -6,7 +6,7 @@ en:
         saboga:
           name: Saboga
           description: A service to scrape and view boardgamegeek data, built using FastAPI and Beanie on MongoDB.
-          link: tjarksievers.de/projects/saboga-backend
+          link: tjarksievers.de/projects/saboga/
         verleihnix:
           name: Verleihnix
           description: Internal tool for inventory management. Written in Django, built during my time as a student employee at PHYSnet Hamburg.
@@ -38,8 +38,8 @@ en:
       projects:
         saboga:
           name: Saboga
-          description: A frontend for the Saboga API.
-          link: tjarksievers.de/projects/saboga-frontend/
+          description: A React frontend for Saboga.
+          link: tjarksievers.de/projects/saboga/
   technologies:
     docker:
       name: Docker
@@ -63,7 +63,7 @@ de:
       projects:
         saboga:
           name: Saboga
-          description: Ein Service um boardgamegeek Daten zu scrapen und auszugeben, gebaut mithilfe von FastAPI und Beanie auf MongoDB.
+          description: Ein Service um Daten von boardgamegeek zu scrapen und auszugeben, gebaut mithilfe von FastAPI und Beanie auf MongoDB.
           link: tjarksievers.de/projects/saboga-backend
         verleihnix:
           name: Verleihnix
@@ -71,7 +71,7 @@ de:
           link: tjarksievers.de/projects/verleihnix
         quant-met:
           name: quant-met
-          description: Software-Paket um Supraleitung in Systemen mit flachen Elektronen-Bändern zu untersuchen.
+          description: Software-Paket um Supraleitung in Systemen mit flachen elektronischen Bändern zu untersuchen.
           link: tjarksievers.de/projects/quant-met
     latex:
       name: LaTeX
@@ -85,7 +85,7 @@ de:
       projects:
         sunflower:
           name: Sunflower
-          description: Ein sauberes Theme für Hugo, mit Gelb und Grüntönen, nutzt TailwindCSS und DaisyUI Komponenten.
+          description: Ein minimalistisches Theme für Hugo, mit Gelb und Grüntönen, nutzt TailwindCSS und DaisyUI Komponenten.
           link: tjarksievers.de/projects/sunflower
         verleihnix:
           name: Verleihnix
@@ -96,7 +96,7 @@ de:
       projects:
         saboga:
           name: Saboga
-          description: Ein Frontend für die saboga API.
+          description: Ein React Frontend für die saboga.
           link: tjarksievers.de/projects/saboga-frontend/
   technologies:
     docker:

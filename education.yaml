@@ -1,7 +1,7 @@
 en:
   current:
     master:
-      name: M. Sc. Physics
+      name: M.Sc. Physics
       institution: University of Hamburg
       location: Hamburg
       date: 2022-10-01
@@ -9,7 +9,7 @@ en:
       grade: "1.11"
   former:
     bachelor:
-      name: B. Sc. Physics
+      name: B.Sc. Physics
       institution: University of Hamburg
       location: Hamburg
       date: 2022-07-01
@@ -19,12 +19,11 @@ en:
       institution: Werner-Heisenberg-Gymnasium
       location: Heide
       date: 2017-07-01
-      grade: "1.5"
 
 de:
   current:
     master:
-      name: M. Sc. Physik
+      name: M.Sc. Physik
       institution: Universität Hamburg
       location: Hamburg
       date: 2022-10-01
@@ -42,4 +41,3 @@ de:
       institution: Werner-Heisenberg-Gymnasium
       location: Heide
       date: 2017-07-01
-      grade: "1.5"
