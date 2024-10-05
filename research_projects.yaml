@@ -1,0 +1,17 @@
+en:
+  flat-band-sc:
+    name: "Superconductivity in flat bands"
+    institution: "University of Hamburg and Uppsala University"
+    notes: [
+      "Test",
+      "Test 2"
+    ]
+
+de:
+  flat-band-sc:
+    name: "Superconductivity in flat bands"
+    institution: "University of Hamburg and Uppsala University"
+    notes: [
+      "Test",
+      "Test 2"
+    ]

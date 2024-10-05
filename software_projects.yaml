@@ -1,0 +1,17 @@
+en:
+  quant-met:
+    name: "quant-met"
+    link: github.com/Ruberhauptmann/quant-met
+    notes: [
+      "Test",
+      "Test 2"
+    ]
+
+de:
+  quant-met:
+    name: "quant-met"
+    link: github.com/Ruberhauptmann/quant-met
+    notes: [
+      "Test",
+      "Test 2"
+    ]
