@@ -3,8 +3,8 @@ en:
     name: "Superconductivity in flat bands"
     institution: "University of Hamburg and Uppsala University"
     notes: [
-      "Test",
       "Test 2"
+      "Supervisors: Prof. Annica Black-Schaffer, Prof. Tim Wehling",
     ]
 
 de:
@@ -12,6 +12,5 @@ de:
     name: "Superconductivity in flat bands"
     institution: "University of Hamburg and Uppsala University"
     notes: [
-      "Test",
-      "Test 2"
+      "Supervisors: Prof. Annica Black-Schaffer, Prof. Tim Wehling",
     ]
