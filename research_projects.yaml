@@ -2,8 +2,10 @@ en:
   flat-band-sc:
     name: "Superconductivity in flat bands"
     institution: "University of Hamburg and Uppsala University"
+    startdate: 2024-04-01
+    enddate: 2025-03-31
     notes: [
-      "Investigated superconductivity in a Graphene-like system with a flat electronic band using mean-field theory",
+      "Investigated superconductivity in a Graphene-like system with a flat electronic band",
       "Analyzed the connection between characteristic superconducting quantities and quantum geometry",
       "Supervisors: Prof. Annica Black-Schaffer, Prof. Tim Wehling",
     ]
@@ -11,7 +13,9 @@ en:
 de:
   flat-band-sc:
     name: "Superconductivity in flat bands"
-    institution: "University of Hamburg and Uppsala University"
+    institution: "Universität Hamburg und Uppsala University"
+    startdate: 2024-04-01
+    enddate: 2025-03-31
     notes: [
       "Supervisors: Prof. Annica Black-Schaffer, Prof. Tim Wehling",
     ]
