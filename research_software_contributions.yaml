@@ -3,8 +3,7 @@ en:
     name: "quant-met"
     link: github.com/Ruberhauptmann/quant-met
     notes: [
-      "A python package to treat superconductivity in multiband systems",
-      "https://doi.org/10.5281/zenodo.13897804",
+      "Python package to treat superconductivity in multiband systems on a mean-field level",
     ]
 
 de:

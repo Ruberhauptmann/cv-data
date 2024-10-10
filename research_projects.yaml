@@ -3,7 +3,8 @@ en:
     name: "Superconductivity in flat bands"
     institution: "University of Hamburg and Uppsala University"
     notes: [
-      "Test 2",
+      "Investigated superconductivity in a Graphene-like system with a flat electronic band using mean-field theory",
+      "Analyzed the connection between characteristic superconducting quantities and quantum geometry",
       "Supervisors: Prof. Annica Black-Schaffer, Prof. Tim Wehling",
     ]
 
