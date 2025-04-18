@@ -1,0 +1,41 @@
+en:
+  quant-met:
+    name: quant-met
+    link: github.com/Ruberhauptmann/quant-met
+    notes:
+      - Software package to study superconductivity in flat-band systems
+      - Used to run parallel calculations on the PHYSnet cluster
+      - Fully tested using unit tests for functions that can be calculated manually and regression tests for more complex functions
+    technologies:
+      - Python
+  verleihnix:
+    name: Verleihnix
+    notes:
+      - Internal tool for inventory management at PHYSnet
+      - Automated and sped up many tasks related to managing the PCs, Laptops and Displays in the physics department
+      - The app is still used and maintained by the current student employees
+    technologies:
+      - Python
+      - Django
+      - Docker
+
+de:
+  quant-met:
+    name: quant-met
+    link: github.com/Ruberhauptmann/quant-met
+    notes:
+      - Softwarepaket zur Untersuchung von Supraleitung in Flachband-Systemen
+      - Wird verwendet, um parallele Berechnungen auf dem PHYSnet-Cluster durchzuführen
+      - Vollständig getestet mit Einheitstests für Funktionen, die manuell berechnet werden können, und Regressionstests für komplexere Funktionen
+    technologies:
+      - Python
+  verleihnix:
+    name: Verleihnix
+    notes:
+      - Internes Tool für das Bestandsmanagement im PHYSnet
+      - Automatisiert und beschleunigt Aufgaben im Zusammenhang mit der Verwaltung der PCs, Laptops und Displays am Physikinstitut
+      - Die App wird weiterhin von den aktuellen studentischen Mitarbeitern verwendet und weiterentwickelt
+    technologies:
+      - Python
+      - Django
+      - Docker

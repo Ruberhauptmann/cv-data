@@ -14,6 +14,7 @@ en:
         quant-met:
           name: quant-met
           description: Software package to study superconductivity in flat-band systems.
+          notes:
           link: tjarksievers.de/projects/quant-met
     latex:
       name: LaTeX
@@ -21,6 +22,16 @@ en:
         bachelorthesis:
           name: Bachelorthesis
           link: tjarksievers.de/projects/bachelorthesis
+
+    cpp:
+      name: C++
+  frameworks:
+    Django:
+      name: Django
+    Flask:
+      name: Flask
+    FastAPI:
+      name: FastAPI
   web:
     tailwindCSS:
       name: TailwindCSS
@@ -33,14 +44,7 @@ en:
           name: Verleihnix
           description: Internal tool for managing inventory written in Django, built during my time as a student employee at PHYSnet Hamburg.
           link: tjarksievers.de/projects/verleihnix
-    SvelteKit:
-      name: SvelteKit
-      projects:
-        saboga:
-          name: Saboga
-          description: A React frontend for Saboga.
-          link: tjarksievers.de/projects/saboga/
-  technologies:
+  development_tools:
     docker:
       name: Docker
       projects:
@@ -48,13 +52,8 @@ en:
           name: tjarksievers.de
           description: The appplications under tjarksievers.de run under Docker, with automatic deployment via Github Actions.
           link: tjarksievers.de/projects/tjarksievers.de
-    HPC:
-      name: High-Performance Computing
-      projects:
-        bachelorthesis:
-          name: Bachelorthesis
-          description: During my thesis I ran DFT electronic structure and phonon calculations with Quantum Espresso.
-          link: tjarksievers.de/projects/bachelorthesis
+    git:
+      name: Git
 
 de:
   languages:
@@ -98,7 +97,14 @@ de:
           name: Saboga
           description: Ein React Frontend für die saboga.
           link: tjarksievers.de/projects/saboga-frontend/
-  technologies:
+  frameworks:
+    Django:
+      name: Django
+    Flask:
+      name: Flask
+    FastAPI:
+      name: FastAPI
+  development_tools:
     docker:
       name: Docker
       projects:
@@ -106,10 +112,5 @@ de:
           name: tjarksievers.de
           description: Die Anwendungen unter tjarksievers.de laufen als Docker-Container, mit automatischen Deployment via Github Action.
           link: tjarksievers.de/projects/tjarksievers.de
-    HPC:
-      name: High-Performance Computing
-      projects:
-        bachelorthesis:
-          name: Bachelorthesis
-          description: In meiner Bachelorarbeit habe ich mithilfe des DFT-Pakets Quantum Espresso elektronische Struktur und Phononen-Rechnungen durchgeführt.
-          link: tjarksievers.de/projects/bachelorthesis
+    git:
+      name: Git

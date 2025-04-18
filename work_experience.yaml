@@ -18,16 +18,16 @@ en:
       startdate: 2023-09-01
       enddate: 2023-10-31
     3S:
-      position: IT-Support
+      position: IT support
       company: 3S/HiTeC e.V.
       achievements:
-        - "Installed and configured Linux servers"
+        - "Installed and configured Linux servers in schools"
         - "First and second level support for Linux servers and clients"
       location: Hamburg
       startdate: 2019-05-01
       enddate: 2021-09-30
     FSJ:
-      position: Volunteer Service in culture and education
+      position: Volunteer service in culture and education
       company: Musikakademie Alteglofsheim
       location: Alteglofsheim
       startdate: 2017-09-01
@@ -56,8 +56,8 @@ de:
       position: IT-Support
       company: 3S/HiTeC e.V.
       achievements:
-        - "Linux Server installiert und konfiguriert"
-        - "First und Second Level Support für Linux Server und Clients"
+        - "Installation und Konfiguration von Linux Server an Schulen"
+        - "First und Second Level Support für Linux Server und Clients an Schulen"
       location: Hamburg
       startdate: 2019-05-01
       enddate: 2021-09-30

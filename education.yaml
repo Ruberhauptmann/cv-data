@@ -1,12 +1,11 @@
 en:
   current:
     master:
-      name: M.Sc. Physics
+      name: "M.Sc. Physics (expected 4/2025)"
       institution: University of Hamburg
       location: Hamburg
       date: 2022-10-01
-      notes: "4/2024 - 7/2024: Stay at Uppsala University for master's thesis"
-      grade: "1.11"
+      notes: "4/2024 - 7/2024: Stay at Uppsala University"
   former:
     bachelor:
       name: B.Sc. Physics
@@ -19,6 +18,7 @@ en:
       institution: Werner-Heisenberg-Gymnasium
       location: Heide
       date: 2017-07-01
+      grade: "1.5"
 
 de:
   current:
@@ -27,8 +27,7 @@ de:
       institution: Universität Hamburg
       location: Hamburg
       date: 2022-10-01
-      notes: "4/2024 - 7/2024: Aufenthalt an der Uppsala University für Masterarbeit"
-      grade: "1.11"
+      notes: "4/2024 - 7/2024: Aufenthalt an der Uppsala University für einen Teil meiner Masterarbeit"
   former:
     bachelor:
       name: B. Sc. Physik
@@ -41,3 +40,4 @@ de:
       institution: Werner-Heisenberg-Gymnasium
       location: Heide
       date: 2017-07-01
+      grade: "1.5"
