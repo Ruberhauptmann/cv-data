@@ -2,27 +2,8 @@ en:
   languages:
     python:
       name: Python
-      projects:
-        saboga:
-          name: Saboga
-          description: A service to scrape and view boardgamegeek data, built using FastAPI and Beanie on MongoDB.
-          link: tjarksievers.de/projects/saboga/
-        verleihnix:
-          name: Verleihnix
-          description: Internal tool for inventory management. Written in Django, built during my time as a student employee at PHYSnet Hamburg.
-          link: tjarksievers.de/projects/verleihnix
-        quant-met:
-          name: quant-met
-          description: Software package to study superconductivity in flat-band systems.
-          notes:
-          link: tjarksievers.de/projects/quant-met
     latex:
       name: LaTeX
-      projects:
-        bachelorthesis:
-          name: Bachelorthesis
-          link: tjarksievers.de/projects/bachelorthesis
-
     cpp:
       name: C++
   frameworks:
@@ -35,23 +16,11 @@ en:
   web:
     tailwindCSS:
       name: TailwindCSS
-      projects:
-        sunflower:
-          name: Sunflower
-          description: A clean Hugo theme with yellows and greens using TailwindCSS and DaisyUI components.
-          link: tjarksievers.de/projects/sunflower
-        verleihnix:
-          name: Verleihnix
-          description: Internal tool for managing inventory written in Django, built during my time as a student employee at PHYSnet Hamburg.
-          link: tjarksievers.de/projects/verleihnix
+  SvelteKit:
+    name: SvelteKit
   development_tools:
     docker:
       name: Docker
-      projects:
-        tjarksievers.de:
-          name: tjarksievers.de
-          description: The appplications under tjarksievers.de run under Docker, with automatic deployment via Github Actions.
-          link: tjarksievers.de/projects/tjarksievers.de
     git:
       name: Git
 
@@ -59,44 +28,10 @@ de:
   languages:
     python:
       name: Python
-      projects:
-        saboga:
-          name: Saboga
-          description: Ein Service um Daten von boardgamegeek zu scrapen und auszugeben, gebaut mithilfe von FastAPI und Beanie auf MongoDB.
-          link: tjarksievers.de/projects/saboga-backend
-        verleihnix:
-          name: Verleihnix
-          description: Internes Django-Tool um Inventardaten zu managen, entstanden in meiner Zeit als studentisch Angestellter am PHYSnet Hamburg.
-          link: tjarksievers.de/projects/verleihnix
-        quant-met:
-          name: quant-met
-          description: Software-Paket um Supraleitung in Systemen mit flachen elektronischen Bändern zu untersuchen.
-          link: tjarksievers.de/projects/quant-met
     latex:
       name: LaTeX
-      projects:
-        bachelorthesis:
-          name: Bachelorarbeit
-          link: tjarksievers.de/projects/bachelorthesis
-  web:
-    tailwindCSS:
-      name: TailwindCSS
-      projects:
-        sunflower:
-          name: Sunflower
-          description: Ein minimalistisches Theme für Hugo, mit Gelb und Grüntönen, nutzt TailwindCSS und DaisyUI Komponenten.
-          link: tjarksievers.de/projects/sunflower
-        verleihnix:
-          name: Verleihnix
-          description: Internes Django-Tool um Inventardaten zu managen, entstanden in meiner Zeit als studentisch Angestellter am PHYSnet Hamburg.
-          link: tjarksievers.de/projects/verleihnix
-    SvelteKit:
-      name: SvelteKit
-      projects:
-        saboga:
-          name: Saboga
-          description: Ein React Frontend für die saboga.
-          link: tjarksievers.de/projects/saboga-frontend/
+    cpp:
+      name: C++
   frameworks:
     Django:
       name: Django
@@ -104,13 +39,13 @@ de:
       name: Flask
     FastAPI:
       name: FastAPI
+  web:
+    tailwindCSS:
+      name: TailwindCSS
+    SvelteKit:
+      name: SvelteKit
   development_tools:
     docker:
       name: Docker
-      projects:
-        tjarksievers.de:
-          name: tjarksievers.de
-          description: Die Anwendungen unter tjarksievers.de laufen als Docker-Container, mit automatischen Deployment via Github Action.
-          link: tjarksievers.de/projects/tjarksievers.de
     git:
       name: Git

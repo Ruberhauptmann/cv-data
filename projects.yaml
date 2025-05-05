@@ -25,8 +25,8 @@ de:
     link: github.com/Ruberhauptmann/quant-met
     notes:
       - Softwarepaket zur Untersuchung von Supraleitung in Flachband-Systemen
-      - Wird verwendet, um parallele Berechnungen auf dem PHYSnet-Cluster durchzuführen
-      - Vollständig getestet mit Einheitstests für Funktionen, die manuell berechnet werden können, und Regressionstests für komplexere Funktionen
+      - Benutzung in meiner Masterarbeit für parallele Berechnungen auf dem PHYSnet-Cluster
+      - Vollständig getestet mit Unittests für Funktionen, die manuell berechnet werden können, und Regressionstests für komplexere Funktionen
     technologies:
       - Python
   verleihnix:

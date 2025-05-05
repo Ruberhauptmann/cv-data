@@ -1,7 +1,7 @@
 en:
   current:
     master:
-      name: "M.Sc. Physics (expected 4/2025)"
+      name: "M.Sc. Physics (expected 5/2025)"
       institution: University of Hamburg
       location: Hamburg
       date: 2022-10-01
@@ -23,7 +23,7 @@ en:
 de:
   current:
     master:
-      name: M.Sc. Physik
+      name: "M.Sc. Physics (5/2025)"
       institution: Universität Hamburg
       location: Hamburg
       date: 2022-10-01

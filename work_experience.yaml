@@ -39,8 +39,8 @@ de:
       position: Studentisch Angestellter
       company: PHYSnet, Universität Hamburg
       achievements:
-        - "Entwicklung einer Django-basierten Web Applikation zur Inventarverwaltung"
-        - "Unterstützung von Usern des PHYSnet Compute Clusters"
+        - "Entwicklung einer Django-basierten Web Anwendung zur Inventarverwaltung"
+        - "Support von Usern des PHYSnet Compute Clusters"
       location: Hamburg
       startdate: 2021-11-01
       enddate: 2024-03-31
@@ -48,7 +48,7 @@ de:
       position: Wissenschaftliche Hilfskraft
       company: Dr. Thore Posske, Universität Hamburg
       achievements:
-        - "Hilfe beim Setzen eines Kursbuches für die Vorlesung 'Topology in Condensed Matter Physics'"
+        - "Unterstützung beim Setzen eines Kursbuches für die Vorlesung 'Topology in Condensed Matter Physics'"
       location: Hamburg
       startdate: 2023-09-01
       enddate: 2023-10-31
