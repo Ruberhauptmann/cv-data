@@ -1,12 +1,11 @@
 en:
-  current:
+  former:
     master:
-      name: "M.Sc. Physics (expected 5/2025)"
+      name: "M.Sc. Physics"
       institution: University of Hamburg
       location: Hamburg
-      date: 2022-10-01
+      date: 2025-05-15
       notes: "4/2024 - 7/2024: Stay at Uppsala University"
-  former:
     bachelor:
       name: B.Sc. Physics
       institution: University of Hamburg
@@ -21,14 +20,13 @@ en:
       grade: "1.5"
 
 de:
-  current:
+  former:
     master:
-      name: "M.Sc. Physics (5/2025)"
+      name: "M.Sc. Physics"
       institution: Universität Hamburg
       location: Hamburg
-      date: 2022-10-01
-      notes: "4/2024 - 7/2024: Aufenthalt an der Uppsala University für einen Teil meiner Masterarbeit"
-  former:
+      date: 2025-05-15
+      notes: "4/2024 - 7/2024: Aufenthalt an der Uppsala University"
     bachelor:
       name: B. Sc. Physik
       institution: Universität Hamburg
