@@ -3,21 +3,25 @@ en:
     name: quant-met
     link: github.com/Ruberhauptmann/quant-met
     notes:
-      - Software package to study superconductivity in flat-band systems
-      - Used to run parallel calculations on the PHYSnet cluster
-      - Fully tested using unit tests for functions that can be calculated manually and regression tests for more complex functions
+      - Software package to study superconductivity in flat-band and multiband lattice systems
+      - Used to run parallelized parameter scans on the PHYSnet compute cluster
+      - Fully tested with extensive unit and regression tests
     technologies:
       - Python
-  verleihnix:
-    name: Verleihnix
+  saboga:
+    name: saboga
+    link: saboga.tjarksievers.de
     notes:
-      - Internal tool for inventory management at PHYSnet
-      - Automated and sped up many tasks related to managing the PCs, Laptops and Displays in the physics department
-      - The app is still used and maintained by the current student employees
+      - Full-stack web app for exploring data from BoardGameGeek
+      - Collects and analyzes data on ~30,000 ranked games and ~9 million historic user ratings
+      - Backend built with FastAPI and MongoDB for efficient data ingestion and querying
+      - Frontend built with React for data exploration
     technologies:
       - Python
-      - Django
-      - Docker
+      - FastAPI
+      - MongoDB
+      - React
+      - TypeScript
 
 de:
   quant-met:
@@ -25,17 +29,21 @@ de:
     link: github.com/Ruberhauptmann/quant-met
     notes:
       - Softwarepaket zur Untersuchung von Supraleitung in Flachband-Systemen
-      - Benutzung in meiner Masterarbeit für parallele Berechnungen auf dem PHYSnet-Cluster
-      - Vollständig getestet mit Unittests für Funktionen, die manuell berechnet werden können, und Regressionstests für komplexere Funktionen
+      - Benutzt für parallele Berechnungen auf dem PHYSnet-Cluster
+      - Vollständig getestet mit Unit und Regressionstests
     technologies:
       - Python
-  verleihnix:
-    name: Verleihnix
+  saboga:
+    name: saboga
+    link: saboga.tjarksievers.de
     notes:
-      - Internes Tool für das Bestandsmanagement im PHYSnet
-      - Automatisiert und beschleunigt Aufgaben im Zusammenhang mit der Verwaltung der PCs, Laptops und Displays am Physikinstitut
-      - Die App wird weiterhin von den aktuellen studentischen Mitarbeitern verwendet und weiterentwickelt
+      - Vollständige Webanwendung zur Analyse von Daten der Plattform BoardGameGeek
+      - Sammelt und analysiert Daten zu ca. 30.000 bewerteten Spielen und ca. 9 Millionen historischen Nutzerbewertungen
+      - Backend mit FastAPI und MongoDB zur effizienten Datenverarbeitung und -abfrage
+      - Frontend mit React für interaktive Datenvisualisierung und -exploration
     technologies:
       - Python
-      - Django
-      - Docker
+      - FastAPI
+      - MongoDB
+      - React
+      - TypeScript

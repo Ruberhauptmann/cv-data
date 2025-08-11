@@ -1,51 +1,39 @@
 en:
-  languages:
-    python:
-      name: Python
-    latex:
-      name: LaTeX
-    cpp:
-      name: C++
-  frameworks:
-    Django:
-      name: Django
-    Flask:
-      name: Flask
-    FastAPI:
-      name: FastAPI
-  web:
-    tailwindCSS:
-      name: TailwindCSS
-  SvelteKit:
-    name: SvelteKit
-  development_tools:
-    docker:
-      name: Docker
-    git:
-      name: Git
+  Languages:
+    - Python
+    - C++
+    - Bash
+  Web Development:
+    - Django
+    - FastAPI
+    - HTML/CSS
+    - React
+  DevOps:
+    - Docker
+    - GitLab CI/CD
+    - GitHub Actions
+    - Ansible
+    - Grafana
+  Databases:
+    - MongoDB
+    - MariaDB/MySQL
 
 de:
-  languages:
-    python:
-      name: Python
-    latex:
-      name: LaTeX
-    cpp:
-      name: C++
-  frameworks:
-    Django:
-      name: Django
-    Flask:
-      name: Flask
-    FastAPI:
-      name: FastAPI
-  web:
-    tailwindCSS:
-      name: TailwindCSS
-    SvelteKit:
-      name: SvelteKit
-  development_tools:
-    docker:
-      name: Docker
-    git:
-      name: Git
+  Languages:
+    - Python
+    - C++
+    - Bash
+  Web Development:
+    - Django
+    - FastAPI
+    - HTML/CSS
+    - React
+  DevOps:
+    - Docker
+    - GitLab CI/CD
+    - GitHub Actions
+    - Ansible
+    - Grafana
+  Databases:
+    - MongoDB
+    - MariaDB/MySQL

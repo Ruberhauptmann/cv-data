@@ -5,37 +5,45 @@ en:
       institution: University of Hamburg
       location: Hamburg
       date: 2025-05-15
-      notes: "4/2024 - 7/2024: Stay at Uppsala University"
+      grade: "passed with distinction"
+      notes: [
+        "4/2024 - 7/2024: Stay at Uppsala University",
+        "Thesis: Superconducting Phase Stiffness and Coherence Length From a Finite Momentum Pairing Constraint"
+      ]
     bachelor:
       name: B.Sc. Physics
       institution: University of Hamburg
       location: Hamburg
       date: 2022-07-01
-      grade: "1.47"
+      grade: 1.47
     abitur:
       name: Abitur
       institution: Werner-Heisenberg-Gymnasium
       location: Heide
       date: 2017-07-01
-      grade: "1.5"
+      grade: 1.5
 
 de:
   former:
     master:
-      name: "M.Sc. Physics"
+      name: "M.Sc. Physik"
       institution: Universität Hamburg
       location: Hamburg
       date: 2025-05-15
-      notes: "4/2024 - 7/2024: Aufenthalt an der Uppsala University"
+      grade: "mit Auszeichnung bestanden"
+      notes: [
+        "4/2024 - 7/2024: Aufenthalt an der Uppsala University",
+        "Thesis: Superconducting Phase Stiffness and Coherence Length From a Finite Momentum Pairing Constraint"
+      ]
     bachelor:
       name: B. Sc. Physik
       institution: Universität Hamburg
       location: Hamburg
       date: 2022-07-01
-      grade: "1.47"
+      grade: 1.47
     abitur:
       name: Abitur
       institution: Werner-Heisenberg-Gymnasium
       location: Heide
       date: 2017-07-01
-      grade: "1.5"
+      grade: 1.5
