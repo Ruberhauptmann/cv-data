@@ -1,24 +1,20 @@
 en:
+  current:
+    altona:
+      position: Software Application Engineer
+      company: altona diagnostics
+      location: Hamburg
+      startdate: 2025-09-01
   former:
     Physnet:
       position: Student employee
       company: PHYSnet, University of Hamburg
-      achievements:
-        - "Managed IT hardware inventory (PCs, laptops, monitors), including intake, labeling, and distribution"
-        - "Designed and developed a Django-based web application to automate asset management workflows, reducing manual effort and errors"
-        - "Containerized the application with Docker and implemented CI pipelines in GitLab for streamlined deployment and testing"
-        - "Provided user support for the Physnet compute cluster, assisting researchers with job submissions, software environments, and troubleshooting"
       location: Hamburg
       startdate: 2021-11-01
       enddate: 2024-03-31
     3S:
       position: IT support
       company: 3S/HiTeC e.V.
-      achievements:
-        - "Delivered first and second-level IT support for 150 schools with around 15,000 devices"
-        - "Acted as Change Manager  for on-site IT infrastructure upgrades and rollouts"
-        - "Installed and maintained Linux servers (Ubuntu) and clients (Xubuntu, Windows 10)"
-        - "Built and deployed custom Linux images and automated installation processes with Ansible and Docker"
       location: Hamburg
       startdate: 2019-05-01
       enddate: 2021-09-30
@@ -30,26 +26,22 @@ en:
       enddate: 2018-08-31
 
 de:
+  current:
+    altona:
+      position: Software Application Engineer
+      company: altona diagnostics
+      location: Hamburg
+      startdate: 2025-09-01
   former:
     Physnet:
       position: Studentisch Angestellter
       company: PHYSnet, Universität Hamburg
-      achievements:
-        - "Verwaltung des IT-Hardware-Inventars (PCs, Laptops, Monitore), einschließlich Annahme, Etikettierung und Ausgabe"
-        - "Konzeption und Entwicklung einer webbasierten Anwendung mit Django zur Automatisierung von Inventarprozessen, wodurch manueller Aufwand reduziert wurde"
-        - "Containerisierung der Anwendung mit Docker und Implementierung von CI-Pipelines in GitLab zur effizienten Bereitstellung und Testautomatisierung"
-        - "Unterstützung von Nutzer:innen des Physnet-Clusters bei Job-Scheduling, Softwareumgebungen und allgemeinen Supportanfragen"
       location: Hamburg
       startdate: 2021-11-01
       enddate: 2024-03-31
     3S:
       position: IT-Support
       company: 3S/HiTeC e.V.
-      achievements:
-        - "Durchführung von First- und Second-Level-Support für 150 Schulen mit etwa 15.000 Geräten"
-        - "Ausführung von Infrastruktur-Upgrades und Rollouts vor Ort als Change Managers"
-        - "Installation und Wartung von Linux-Servern (Ubuntu) sowie Clients (Xubuntu/Ubuntu, Windows 10)"
-        - "Erstellung und Bereitstellung von maßgeschneiderten Linux-Images sowie Automatisierung von Installationsprozessen mit Ansible und Docker"
       location: Hamburg
       startdate: 2019-05-01
       enddate: 2021-09-30

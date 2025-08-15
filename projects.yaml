@@ -1,13 +1,4 @@
 en:
-  quant-met:
-    name: quant-met
-    link: github.com/Ruberhauptmann/quant-met
-    notes:
-      - Software package to study superconductivity in flat-band and multiband lattice systems
-      - Used to run parallelized parameter scans on the PHYSnet compute cluster
-      - Fully tested with extensive unit and regression tests
-    technologies:
-      - Python
   saboga:
     name: saboga
     link: saboga.tjarksievers.de
@@ -22,17 +13,17 @@ en:
       - MongoDB
       - React
       - TypeScript
-
-de:
   quant-met:
     name: quant-met
     link: github.com/Ruberhauptmann/quant-met
     notes:
-      - Softwarepaket zur Untersuchung von Supraleitung in Flachband-Systemen
-      - Benutzt für parallele Berechnungen auf dem PHYSnet-Cluster
-      - Vollständig getestet mit Unit und Regressionstests
+      - Software package to study superconductivity in flat-band and multiband lattice systems
+      - Used to run parallelized parameter scans on the PHYSnet compute cluster
+      - Fully tested with extensive unit and regression tests
     technologies:
       - Python
+
+de:
   saboga:
     name: saboga
     link: saboga.tjarksievers.de
@@ -47,3 +38,12 @@ de:
       - MongoDB
       - React
       - TypeScript
+  quant-met:
+    name: quant-met
+    link: github.com/Ruberhauptmann/quant-met
+    notes:
+      - Softwarepaket zur Untersuchung von Supraleitung in Flachband-Systemen
+      - Benutzt für parallele Berechnungen auf dem PHYSnet-Cluster
+      - Vollständig getestet mit Unit und Regressionstests
+    technologies:
+      - Python
