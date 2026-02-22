@@ -1,7 +1,8 @@
 en:
   Languages:
     - Python
-    - C++
+    - Rust
+    - JavaScript
     - Bash
   Web Development:
     - Django
@@ -12,16 +13,17 @@ en:
     - Docker
     - GitLab CI/CD
     - GitHub Actions
-    - Ansible
     - Grafana
   Databases:
     - MongoDB
     - MariaDB/MySQL
+    - PostgreSQL
 
 de:
   Languages:
     - Python
-    - C++
+    - Rust
+    - JavaScript
     - Bash
   Web Development:
     - Django
@@ -32,8 +34,8 @@ de:
     - Docker
     - GitLab CI/CD
     - GitHub Actions
-    - Ansible
     - Grafana
   Databases:
     - MongoDB
     - MariaDB/MySQL
+    - PostgreSQL
