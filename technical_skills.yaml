@@ -1,12 +1,9 @@
 en:
   Languages:
     - Python
-    - Rust
     - JavaScript
-    - Bash
   Web Development:
     - Django
-    - FastAPI
     - HTML/CSS
     - React
   DevOps:
@@ -22,12 +19,9 @@ en:
 de:
   Languages:
     - Python
-    - Rust
     - JavaScript
-    - Bash
   Web Development:
     - Django
-    - FastAPI
     - HTML/CSS
     - React
   DevOps:
